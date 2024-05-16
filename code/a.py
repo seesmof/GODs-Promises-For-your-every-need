@@ -8,16 +8,16 @@ install()
 console = Console()
 
 currentDir = os.path.dirname(os.path.abspath(__file__))
-missingPagesPath = os.path.join(currentDir, "missingPages.txt")
+missingPagesPath = os.path.join(currentDir, "blankPages.txt")
 pagesDir = os.path.join(currentDir, "..", "pages")
 genericName = "GODs_Promises_For_your_every_need"
 pdfOutputPath = os.path.join(currentDir, "..", f"{genericName}.pdf")
 
 
-def loadMissingPages():
+def loadBlankPages():
     try:
         with open(missingPagesPath, "r") as f:
-            res = [line.strip() for line in f.readlines() if line.strip()]
+            res = [int(line.strip()) for line in f.readlines() if line.strip()]
     except:
         res = []
     return res
@@ -75,3 +75,39 @@ def formPdf():
         convertedImages = img2pdf.convert(allImageFiles)
         f.write(convertedImages)
     console.print(f"[green bold]Finished forming PDF file[/green bold]")
+
+
+def checkPages():
+    leastPage = int(fileNames[0].split(".")[0])
+    mostPage = int(fileNames[-1].split(".")[0])
+
+    blankPages = loadBlankPages()
+    console.print(f"Blank pages: {blankPages}")
+    missingPages = []
+
+    for i in range(leastPage, mostPage + 1):
+        if not os.path.exists(os.path.join(pagesDir, f"{i}.jpg")):
+            if i not in blankPages:
+                missingPages.append(i)
+                console.print(f"[red bold]Page {i} not found[/red bold]")
+
+    if not missingPages:
+        console.print("[green bold]All pages found![/green bold]")
+
+    currentDir = os.path.dirname(os.path.abspath(__file__))
+    resultsPath = os.path.join(currentDir, "missingPages.json")
+
+    with open(resultsPath, "w", encoding="utf-8") as f:
+        json.dump(missingPages, f, indent=2)
+
+
+def reformatFileNames():
+    for file in os.listdir(pagesDir):
+        if file.endswith(".jpg"):
+            name = file.split(".")[0]
+            newName = int(name) + ".jpg"
+            os.rename(os.path.join(pagesDir, file), os.path.join(pagesDir, newName))
+    readFileNames()
+
+
+reformatFileNames()
