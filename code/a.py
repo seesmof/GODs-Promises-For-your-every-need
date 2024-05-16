@@ -57,4 +57,12 @@ def cleanFileNames():
             )
 
 
-cleanFileNames()
+def removeExcessZeros():
+    for file in os.listdir(pagesDir):
+        if file.endswith(".jpg"):
+            name = file.split(".")[0]
+            newName = name[1:] + ".jpg"
+            console.print(f"Renaming '{file}' to '{newName}'")
+
+
+removeExcessZeros()
