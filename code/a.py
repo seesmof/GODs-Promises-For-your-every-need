@@ -105,7 +105,8 @@ def reformatFileNames():
     for file in os.listdir(pagesDir):
         if file.endswith(".jpg"):
             name = file.split(".")[0]
-            newName = int(name) + ".jpg"
+            console.print(name)
+            newName = f"{int(name)}.jpg"
             os.rename(os.path.join(pagesDir, file), os.path.join(pagesDir, newName))
     readFileNames()
 
