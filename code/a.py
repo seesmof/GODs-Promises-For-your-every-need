@@ -8,6 +8,7 @@ console = Console()
 
 currentDir = os.path.dirname(os.path.abspath(__file__))
 missingPagesPath = os.path.join(currentDir, "missingPages.txt")
+pagesDir = os.path.join(currentDir, "..", "pages")
 
 
 def loadMissingPages():
@@ -36,12 +37,12 @@ def saveFileNames(fileNames):
 fileNamesPath = os.path.join(currentDir, "fileNames.json")
 fileNames = loadFileNames()
 
-pagesDir = os.path.join(currentDir, "..", "pages")
 
-
-def loadFileNames():
+def readFileNames():
+    fileNames
     for file in os.listdir(pagesDir):
         if file.endswith(".jpg"):
+            console.print(f"Reading '{file}'")
             fileNames.append(file)
     fileNames.sort(key=lambda x: int(x.split(".")[0]))
     saveFileNames(fileNames)
@@ -63,6 +64,4 @@ def removeExcessZeros():
             name = file.split(".")[0]
             newName = name[1:] + ".jpg"
             console.print(f"Renaming '{file}' to '{newName}'")
-
-
-removeExcessZeros()
+            os.rename(os.path.join(pagesDir, file), os.path.join(pagesDir, newName))
