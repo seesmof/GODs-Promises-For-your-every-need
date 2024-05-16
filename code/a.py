@@ -1,5 +1,6 @@
 import os
 import json
+import img2pdf
 from rich.console import Console
 from rich.traceback import install
 
@@ -9,6 +10,8 @@ console = Console()
 currentDir = os.path.dirname(os.path.abspath(__file__))
 missingPagesPath = os.path.join(currentDir, "missingPages.txt")
 pagesDir = os.path.join(currentDir, "..", "pages")
+genericName = "GODs_Promises_For_your_every_need"
+pdfOutputPath = os.path.join(currentDir, "..", f"{genericName}.pdf")
 
 
 def loadMissingPages():
@@ -39,7 +42,6 @@ fileNames = loadFileNames()
 
 
 def readFileNames():
-    fileNames
     for file in os.listdir(pagesDir):
         if file.endswith(".jpg"):
             console.print(f"Reading '{file}'")
@@ -65,3 +67,11 @@ def removeExcessZeros():
             newName = name[1:] + ".jpg"
             console.print(f"Renaming '{file}' to '{newName}'")
             os.rename(os.path.join(pagesDir, file), os.path.join(pagesDir, newName))
+
+
+def formPdf():
+    with open(pdfOutputPath, "wb") as f:
+        allImageFiles = [os.path.join(pagesDir, file) for file in fileNames]
+        convertedImages = img2pdf.convert(allImageFiles)
+        f.write(convertedImages)
+    console.print(f"[green bold]Finished forming PDF file[/green bold]")
