@@ -109,6 +109,3 @@ def reformatFileNames():
             newName = f"{int(name)}.jpg"
             os.rename(os.path.join(pagesDir, file), os.path.join(pagesDir, newName))
     readFileNames()
-
-
-reformatFileNames()
