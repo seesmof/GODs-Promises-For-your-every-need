@@ -638,3 +638,134 @@ so that by two unchangeable things in which it is impossible for God to lie, we 
 
 Everything that the Father gives Me will come to Me, and the one who comes to Me I certainly will not cast out.
 — John 6:37
+
+#### Sufficiency
+
+And God is able to make all grace overflow to you, so that, always having all sufficiency in everything, you may have an abundance for every good deed;
+— 2 Corinthians 9:8
+
+And my God will supply all your needs according to His riches in glory in Christ Jesus.
+— Philippians 4:19
+
+Therefore, I say to you, all things for which you pray and ask, believe that you have received them, and they will be granted to you.
+— Mark 11:24
+
+Not that we are adequate in ourselves so as to consider anything as having come from ourselves, but our adequacy is from God,
+— 2 Corinthians 3:5
+
+I can do all things through Him who strengthens me.
+— Philippians 4:13
+
+and what is the boundless greatness of His power toward us who believe. These are in accordance with the working of the strength of His might
+— Ephesians 1:19
+
+And He has said to me, “My grace is sufficient for you, for power is perfected in weakness.” Most gladly, therefore, I will rather boast about my weaknesses, so that the power of Christ may dwell in me.
+— 2 Corinthians 12:9
+
+But in all these things we overwhelmingly conquer through Him who loved us.
+— Romans 8:37
+
+Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,
+— Ephesians 1:3
+
+If you remain in Me, and My words remain in you, ask whatever you wish, and it will be done for you.
+— John 15:7
+
+And whatever you ask in My name, this I will do, so that the Father may be glorified in the Son.
+— John 14:13
+
+And on that day you will not question Me about anything. Truly, truly I say to you, if you ask the Father for anything in My name, He will give it to you. Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full.
+— John 16:23-24
+
+And whatever you ask in prayer, believing, you will receive it all.”
+— Matthew 21:22
+
+He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things?
+— Romans 8:23
+
+for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence. Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust.
+— 2 Peter 1:3-4
+
+Bless the Lord, my soul,
+And do not forget any of His benefits;
+Who pardons all your guilt,
+Who heals all your diseases;
+Who redeems your life from the pit,
+Who crowns you with favor and compassion;
+— Psalm 103:2-4
+
+#### Fulfillment
+
+“Blessed are those who hunger and thirst for righteousness, for they will be satisfied.
+— Matthew 5:6
+
+Delight yourself in the Lord;
+And He will give you the desires of your heart.
+— Psalm 37:4
+
+For He has satisfied the thirsty soul,
+And He has filled the hungry soul with what is good.
+— Psalm 107:9
+
+Who satisfies your years with good things,
+So that your youth is renewed like the eagle.
+— Psalm 103:5
+
+You will have plenty to eat and be satisfied,
+And you will praise the name of the Lord your God,
+Who has dealt wondrously with you;
+Then My people will never be put to shame.
+— Joel 2:26
+
+Jesus said to them, “I am the bread of life; the one who comes to Me will not be hungry, and the one who believes in Me will never be thirsty.
+— John 6:35
+
+The afflicted will eat and be satisfied;
+Those who seek Him will praise the Lord.
+May your heart live forever!
+— Psalm 22:26
+
+Jesus answered and said to her, “Everyone who drinks of this water will be thirsty again; but whoever drinks of the water that I will give him shall never be thirsty; but the water that I will give him will become in him a fountain of water springing up to eternal life.”
+— John 4:13-14
+
+The Lord will answer and say to His people,
+“Behold, I am going to send you grain, new wine, and oil,
+And you will be satisfied in full with them;
+And I will never again make you a disgrace among the nations.
+— Joel 2:19
+
+And if you offer yourself to the hungry
+And satisfy the need of the afflicted,
+Then your light will rise in darkness,
+And your gloom will become like midday.
+And the Lord will continually guide you,
+And satisfy your desire in scorched places,
+And give strength to your bones;
+And you will be like a watered garden,
+And like a spring of water whose waters do not fail.
+— Isaiah 58:10-11
+
+The eyes of all look to You,
+And You give them their food in due time.
+You open Your hand
+And satisfy the desire of every living thing.
+— Psalm 145:15-16
+
+Why do you spend money for what is not bread,
+And your wages for what does not satisfy?
+Listen carefully to Me, and eat what is good,
+And delight yourself in abundance.
+— Isaiah 55:2
+
+I will refresh the soul of the priests with abundance,
+And My people will be satisfied with My goodness,” declares the Lord.
+— Jeremiah 31:14
+
+My soul is satisfied as with fat and fatness,
+And my mouth offers praises with joyful lips.
+When I remember You on my bed,
+I meditate on You in the night watches,
+— Psalm 63:5-6
+
+He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things?
+— Romans 8:32
