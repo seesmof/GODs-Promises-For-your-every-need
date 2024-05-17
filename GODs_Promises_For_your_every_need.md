@@ -97,3 +97,53 @@ For David says of Him,
 ‘I saw the Lord always in my presence;
 For He is at my right hand, so that I will not be shaken.
 — Acts 2:25
+
+#### Love
+
+But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.
+— Romans 5:8
+
+“For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.
+— John 3:16
+
+Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God. The one who does not love does not know God, for God is love. By this the love of God was manifested in us, that God has sent His only begotten Son into the world so that we might live through Him. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another. No one has seen God at any time; if we love one another, God abides in us, and His love is perfected in us.
+— 1 John 4:7-12
+
+We have come to know and have believed the love which God has for us. God is love, and the one who abides in love abides in God, and God abides in him.
+We love, because He first loved us.
+— 1 John 4:16, 19
+
+Just as the Father has loved Me, I have also loved you; abide in My love. If you keep My commandments, you will abide in My love; just as I have kept My Father’s commandments and abide in His love. These things I have spoken to you so that My joy may be in you, and that your joy may be made full. “This is My commandment, that you love one another, just as I have loved you. Greater love has no one than this, that one lay down his life for his friends.
+This I command you, that you love one another.
+— John 15:9-13, 17
+
+so that Christ may dwell in your hearts through faith; and that you, being rooted and grounded in love, may be able to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God.
+— Ephesians 3:17-19
+
+“I love those who love me;
+And those who diligently seek me will find me.
+— Proverbs 8:17
+
+The LORD appeared to him from afar, saying,
+“I have loved you with an everlasting love;
+Therefore I have drawn you with lovingkindness.
+— Jeremiah 31:3
+
+“I will betroth you to Me forever;
+Yes, I will betroth you to Me in righteousness and in justice,
+In lovingkindness and in compassion,
+— Hosea 2:19
+
+He who has My commandments and keeps them is the one who loves Me; and he who loves Me will be loved by My Father, and I will love him and will disclose Myself to him.”
+— John 14:21
+
+The LORD will command His lovingkindness in the daytime;
+And His song will be with me in the night,
+A prayer to the God of my life.
+— Psalm 42:8
+
+But now faith, hope, love, abide these three; but the greatest of these is love.
+— 1 Corinthians 13:13
+
+For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.
+— Romans 8:38-39
