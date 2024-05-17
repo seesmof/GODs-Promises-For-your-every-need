@@ -197,3 +197,61 @@ The LORD will bless His people with peace.
 
 Peace I leave with you; My peace I give to you; not as the world gives do I give to you. Do not let your heart be troubled, nor let it be fearful.
 — John 14:27
+
+#### Forgiveness
+
+to the praise of the glory of His grace, which He freely bestowed on us in the Beloved. In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace
+— Ephesians 1:6-7
+
+You forgave the iniquity of Your people;
+You covered all their sin. Selah.
+— Psalm 85:2
+
+Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come.
+— 2 Corinthians 5:17
+
+As far as the east is from the west,
+So far has He removed our transgressions from us.
+— Psalm 103:12
+
+My little children, I am writing these things to you so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous;
+— 1 John 2:1
+
+If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.
+— 1 John 1:9
+
+“For I will be merciful to their iniquities,
+And I will remember their sins no more.”
+— Hebrews 8:12
+
+Let the wicked forsake his way
+And the unrighteous man his thoughts;
+And let him return to the LORD,
+And He will have compassion on him,
+And to our God,
+For He will abundantly pardon.
+— Isaiah 55:7
+
+bearing with one another, and forgiving each other, whoever has a complaint against anyone; just as the Lord forgave you, so also should you.
+— Colossians 3:13
+
+Whenever you stand praying, forgive, if you have anything against anyone, so that your Father who is in heaven will also forgive you your transgressions.
+— Mark 11:25
+
+When you were dead in your transgressions and the uncircumcision of your flesh, He made you alive together with Him, having forgiven us all our transgressions,
+— Colossians 2:13
+
+I will cleanse them from all their iniquity by which they have sinned against Me, and I will pardon all their iniquities by which they have sinned against Me and by which they have transgressed against Me.
+— Jeremiah 33:8
+
+“Come now, and let us reason together,”
+Says the LORD,
+“Though your sins are as scarlet,
+They will be as white as snow;
+Though they are red like crimson,
+They will be like wool.
+— Isaiah 1:18
+
+“I, even I, am the one who wipes out your transgressions for My own sake,
+And I will not remember your sins.
+— Isaiah 43:25
