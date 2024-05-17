@@ -6,3 +6,4 @@ Isaiah 26:3; Ephesians 2:13-14; Philippians 4:6-7; Isaiah 26:12; Isaiah 9:6-7; R
 Romans 5:8; John 3:16; 1 John 4:7-12; 1 John 4:16, 19; John 15:9-13, 17; Ephesians 3:17-19; Proverbs 8:17; Jeremiah 31:3; Hosea 2:19; John 14:21; Psalm 42:8; 1 Corinthians 13:13; Romans 8:38-39
 Philippians 2:9-11; Romans 10:9-10; Luke 6:46; Romans 6:14-16; Romans 12:1-2; 1 Corinthians 6:19-20; Acts 2:36; Romans 14:8; Psalm 68:19; Psalm 73:28; Psalm 86:5; Isaiah 50:7; Mark 12:30; Acts 2:25
 Titus 3:5-6; 1 John 4:14; Luke 1:47; John 4:42b; Luke 19:10; John 3:16; Romans 3:24-25; Ephesians 2:4-5; John 6:47; Ephesians 2:8-9; Romans 10:9; 2 Corinthians 5:17; 2 Timothy 1:9; Psalm 106:8
+1 Peter 2:21; 1 John 2:6; Ephesians 5:1-2; Philippians 2:5-8; Mark 10:43-45; John 13:14-15; John 13:34; 1 John 3:16; Romans 15:5-7; Colossians 3:13; Hebrews 12:2-3

@@ -408,3 +408,40 @@ because we are parts of His body.
 
 This is the message we have heard from Him and announce to you, that God is Light, and in Him there is no darkness at all. If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
 — 1 John 1:5-7
+
+#### Example
+
+For you have been called for this purpose, because Christ also suffered for you, leaving you an example, so that you would follow in His steps,
+— 1 Peter 2:21
+
+the one who says that he remains in Him ought, himself also, walk just as He walked.
+— 1 John 2:6
+
+Therefore be imitators of God, as beloved children; and walk in love, just as Christ also loved you and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.
+— Ephesians 5:1-2
+
+Have this attitude in yourselves which was also in Christ Jesus, who, as He already existed in the form of God, did not consider equality with God something to be grasped, but emptied Himself by taking the form of a bond-servant and being born in the likeness of men. And being found in appearance as a man, He humbled Himself by becoming obedient to the point of death: death on a cross.
+— Philippians 2:5-8
+
+But it is not this way among you; rather, whoever wants to become prominent among you shall be your servant; and whoever wants to be first among you shall be slave of all. For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”
+— Mark 10:43-45
+
+So if I, the Lord and the Teacher, washed your feet, you also ought to wash one another’s feet. For I gave you an example, so that you also would do just as I did for you.
+— John 13:14-15
+
+I am giving you a new commandment, that you love one another; just as I have loved you, that you also love one another.
+— John 13:34
+
+We know love by this, that He laid down His life for us; and we ought to lay down our lives for the brothers and sisters.
+— 1 John 3:16
+
+Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another, according to Christ Jesus, so that with one purpose and one voice you may glorify the God and Father of our Lord Jesus Christ.
+Therefore, accept one another, just as Christ also accepted us, for the glory of God.
+— Romans 15:5-7
+
+bearing with one another, and forgiving each other, whoever has a complaint against anyone; just as the Lord forgave you, so must you do also.
+— Colossians 3:13
+
+looking only at Jesus, the originator and perfecter of the faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+For consider Him who has endured such hostility by sinners against Himself, so that you will not grow weary and lose heart.
+— Hebrews 12:2-3
