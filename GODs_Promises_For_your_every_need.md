@@ -317,3 +317,49 @@ for with the heart a person believes, resulting in righteousness, and with the m
 
 He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,
 — Titus 3:5
+
+#### Deliverer
+
+The Spirit of the Lord GOD is upon me,
+Because the LORD has anointed me
+To bring good news to the afflicted;
+He has sent me to bind up the brokenhearted,
+To proclaim liberty to captives
+And freedom to prisoners;
+— Isaiah 61:1
+
+and you will know the truth, and the truth will make you free.”
+So if the Son makes you free, you will be free indeed.
+— John 8:32, 36
+
+For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death.
+— Romans 8:2
+
+Behold, I have given you authority to tread on serpents and scorpions, and over all the power of the enemy, and nothing will injure you.
+— Luke 10:19
+
+Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty.
+— 2 Corinthians 3:17
+
+But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.
+— Romans 6:22
+
+For You shall break the yoke of their burden and the staff on their shoulders,
+The rod of their oppressor, as at the battle of Midian.
+— Isaiah 9:4
+
+“The Spirit of the Lord is upon Me,
+Because He anointed Me to preach the gospel to the poor.
+He has sent Me to proclaim release to the captives,
+And recovery of sight to the blind,
+To set free those who are oppressed,
+— Luke 4:18
+
+These signs will accompany those who have believed: in My name they will cast out demons, they will speak with new tongues;
+— Mark 16:17
+
+And they overcame him because of the blood of the Lamb and because of the word of their testimony, and they did not love their life even when faced with death.
+— Revelation 12:11
+
+Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God; and every spirit that does not confess Jesus is not from God; this is the spirit of the antichrist, of which you have heard that it is coming, and now it is already in the world. You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world.
+— 1 John 4:1-4
