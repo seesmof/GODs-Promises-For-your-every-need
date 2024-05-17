@@ -363,3 +363,45 @@ And they overcame him because of the blood of the Lamb and because of the word o
 
 Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God; and every spirit that does not confess Jesus is not from God; this is the spirit of the antichrist, of which you have heard that it is coming, and now it is already in the world. You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world.
 — 1 John 4:1-4
+
+#### Fellowship
+
+what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ.
+— 1 John 1:3
+
+God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
+— 1 Corinthians 1:9
+
+Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.
+— Revelation 3:20
+
+Jesus answered and said to him, “If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our abode with him.
+— John 14:23
+
+Sing for joy and be glad, O daughter of Zion; for behold I am coming and I will dwell in your midst,” declares the LORD.
+— Zechariah 2:10
+
+For where two or three have gathered together in My name, I am there in their midst.”
+— Matthew 18:20
+
+He who has My commandments and keeps them is the one who loves Me; and he who loves Me will be loved by My Father, and I will love him and will disclose Myself to him.”
+— John 14:21
+
+Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither can you unless you abide in Me. I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing.
+If you abide in Me, and My words abide in you, ask whatever you wish, and it will be done for you.
+— John 15:4-5, 7
+
+Therefore if there is any encouragement in Christ, if there is any consolation of love, if there is any fellowship of the Spirit, if any affection and compassion, make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.
+— Philippians 2:1-2
+
+I am a companion of all those who fear You,
+And of those who keep Your precepts.
+— Psalm 119:63
+
+and walk in love, just as Christ also loved you and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.
+speaking to one another in psalms and hymns and spiritual songs, singing and making melody with your heart to the Lord;
+because we are members of His body.
+— Ephesians 5:2, 19, 30
+
+This is the message we have heard from Him and announce to you, that God is Light, and in Him there is no darkness at all. If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
+— 1 John 1:5-7
