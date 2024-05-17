@@ -587,3 +587,54 @@ And His glory from the rising of the sun,
 For He will come like a rushing stream
 Which the wind of the Lord drives.
 — Isaiah 59:19
+
+#### Security
+
+Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to obtain an inheritance which is imperishable, undefiled, and will not fade away, reserved in heaven for you, who are protected by the power of God through faith for a salvation ready to be revealed in the last time.
+— 1 Peter 1:3-5
+
+My sheep listen to My voice, and I know them, and they follow Me; and I give them eternal life, and they will never perish; and no one will snatch them out of My hand. My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of the Father’s hand.
+— John 10:27-29
+
+For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.
+— Romans 8:38-39
+
+For I am confident of this very thing, that He who began a good work among you will complete it by the day of Christ Jesus.
+— Philippians 1:6
+
+But the Lord is faithful, and He will strengthen and protect you from the evil one.
+— 2 Thessalonians 3:3
+
+who also sealed us and gave us the Spirit in our hearts as a pledge.
+— 2 Corinthians 1:22
+
+Now to Him who is able to protect you from stumbling, and to make you stand in the presence of His glory, blameless with great joy, to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority before all time and now and forever. Amen.
+— Jude 24-25
+
+Raise your eyes on high
+And see who has created these stars,
+The One who brings out their multitude by number,
+He calls them all by name;
+Because of the greatness of His might and the strength of His power,
+Not one of them is missing.
+— Isaiah 40:26
+
+Certainly goodness and faithfulness will follow me all the days of my life,
+And my dwelling will be in the house of the Lord forever.
+— Psalm 23:6
+
+Do not work for the food that perishes, but for the food that lasts for eternal life, which the Son of Man will give you, for on Him the Father, God, has set His seal.”
+— John 6:27
+
+In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of the promise,
+— Ephesians 1:13
+
+Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.
+— Ephesians 4:30
+
+And we desire that each one of you demonstrate the same diligence so as to realize the full assurance of hope until the end, so that you will not be sluggish, but imitators of those who through faith and endurance inherit the promises.
+so that by two unchangeable things in which it is impossible for God to lie, we who have taken refuge would have strong encouragement to hold firmly to the hope set before us. This hope we have as an anchor of the soul, a hope both sure and reliable and one which enters within the veil, where Jesus has entered as a forerunner for us, having become a high priest forever according to the order of Melchizedek.
+— Hebrews 6:11-12, 18-20
+
+Everything that the Father gives Me will come to Me, and the one who comes to Me I certainly will not cast out.
+— John 6:37
