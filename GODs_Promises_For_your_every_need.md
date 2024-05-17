@@ -255,3 +255,65 @@ They will be like wool.
 “I, even I, am the one who wipes out your transgressions for My own sake,
 And I will not remember your sins.
 — Isaiah 43:25
+
+#### Righteousness
+
+He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him.
+— 2 Corinthians 5:21
+
+But by His doing you are in Christ Jesus, who became to us wisdom from God, and righteousness and sanctification, and redemption,
+— 1 Corinthians 1:30
+
+and may be found in Him, not having a righteousness of my own derived from the Law, but that which is through faith in Christ, the righteousness which comes from God on the basis of faith,
+— Philippians 3:9
+
+Even so Abraham believed God, and it was reckoned to him as righteousness. Therefore, be sure that it is those who are of faith who are sons of Abraham.
+— Galatians 3:6-7
+
+even the righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction;
+— Romans 3:22
+
+being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.
+— Romans 3:24-26
+
+But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness,
+— Romans 4:5
+
+“In righteousness you will be established;
+You will be far from oppression, for you will not fear;
+And from terror, for it will not come near you.
+“If anyone fiercely assails you it will not be from Me.
+Whoever assails you will fall because of you.
+“Behold, I Myself have created the smith who blows the fire of coals
+And brings out a weapon for its work;
+And I have created the destroyer to ruin.
+“No weapon that is formed against you will prosper;
+And every tongue that accuses you in judgment you will condemn.
+This is the heritage of the servants of the LORD,
+And their vindication is from Me,” declares the LORD.
+— Isaiah 54:14-17
+
+For what the Law could not do, weak as it was through the flesh, God did: sending His own Son in the likeness of sinful flesh and as an offering for sin, He condemned sin in the flesh, so that the requirement of the Law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
+— Romans 8:3-4
+
+For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.
+— Romans 5:17
+
+What shall we say then? That Gentiles, who did not pursue righteousness, attained righteousness, even the righteousness which is by faith;
+— Romans 9:30
+
+For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.
+— Romans 8:29-30
+
+If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness.
+— Romans 8:10
+
+And the work of righteousness will be peace,
+And the service of righteousness, quietness and confidence forever.
+— Isaiah 32:17
+
+for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.
+— Romans 10:10
+
+He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,
+— Titus 3:5
