@@ -147,3 +147,53 @@ But now faith, hope, love, abide these three; but the greatest of these is love.
 
 For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.
 — Romans 8:38-39
+
+#### Peace
+
+“The steadfast of mind You will keep in perfect peace,
+Because he trusts in You.
+— Isaiah 26:3
+
+But now in Christ Jesus you who formerly were far off have been brought near by the blood of Christ. For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall,
+— Ephesians 2:13-14
+
+Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus.
+— Philippians 4:6-7
+
+LORD, You will establish peace for us,
+Since You have also performed for us all our works.
+— Isaiah 26:12
+
+For a child will be born to us, a son will be given to us;
+And the government will rest on His shoulders;
+And His name will be called Wonderful Counselor, Mighty God,
+Eternal Father, Prince of Peace.
+There will be no end to the increase of His government or of peace,
+On the throne of David and over his kingdom,
+To establish it and to uphold it with justice and righteousness
+From then on and forevermore.
+The zeal of the LORD of hosts will accomplish this.
+— Isaiah 9:6-7
+
+The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
+— Romans 16:20
+
+The things you have learned and received and heard and seen in me, practice these things, and the God of peace will be with you.
+— Philippians 4:9
+
+Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
+— Romans 5:1
+
+Let the peace of Christ rule in your hearts, to which indeed you were called in one body; and be thankful.
+— Colossians 3:15
+
+In peace I will both lie down and sleep,
+For You alone, O LORD, make me to dwell in safety.
+— Psalm 4:8
+
+The LORD will give strength to His people;
+The LORD will bless His people with peace.
+— Psalm 29:11
+
+Peace I leave with you; My peace I give to you; not as the world gives do I give to you. Do not let your heart be troubled, nor let it be fearful.
+— John 14:27
