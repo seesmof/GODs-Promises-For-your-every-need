@@ -524,3 +524,66 @@ For all who are being led by the Spirit of God, these are sons and daughters of 
 
 Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is.
 — 1 John 3:2
+
+#### Guardian
+
+When you pass through the waters, I will be with you;
+And through the rivers, they will not overflow you.
+When you walk through the fire, you will not be scorched,
+Nor will the flame burn you.
+— Isaiah 43:2
+
+But You, Lord, are a shield around me,
+My glory, and the One who lifts my head.
+— Psalm 3:3
+
+For the eyes of the Lord roam throughout the earth, so that He may strongly support those whose heart is completely His. You have acted foolishly in this. Indeed, from now on you will have wars.”
+— 2 Chronicles 16:9
+
+The Lord your God, who goes before you, will Himself fight for you, just as He did for you in Egypt before your eyes,
+— Deuteronomy 1:30
+
+But the Lord is faithful, and He will strengthen and protect you from the evil one.
+— 2 Thessalonians 3:3
+
+But if you truly obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries.
+— Exodus 23:22
+
+He watches over the feet of His godly ones,
+But the wicked ones are silenced in darkness;
+For not by might shall a person prevail.
+— 1 Samuel 2:9
+
+For You have been a refuge for me,
+A tower of strength against the enemy.
+— Psalm 61:3
+
+The Lord your God is in your midst,
+A victorious warrior.
+He will rejoice over you with joy,
+He will be quiet in His love,
+He will rejoice over you with shouts of joy.
+— Zephaniah 3:16
+
+For the eyes of the Lord are toward the righteous,
+And His ears attend to their prayer,
+But the face of the Lord is against evildoers.”
+sAnd who is there to harm you if you prove zealous for what is good?
+— 1 Peter 3:12-13
+
+The eternal God is a hiding place,
+And underneath are the everlasting arms;
+And He drove out the enemy from you,
+And said, ‘Destroy!’
+— Deuteronomy 33:27
+
+A thousand may fall at your side
+And ten thousand at your right hand,
+But it shall not approach you.
+— Psalm 91:7
+
+So they will fear the name of the Lord from the west
+And His glory from the rising of the sun,
+For He will come like a rushing stream
+Which the wind of the Lord drives.
+— Isaiah 59:19
