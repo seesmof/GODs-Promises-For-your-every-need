@@ -445,3 +445,50 @@ bearing with one another, and forgiving each other, whoever has a complaint agai
 looking only at Jesus, the originator and perfecter of the faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 For consider Him who has endured such hostility by sinners against Himself, so that you will not grow weary and lose heart.
 — Hebrews 12:2-3
+
+#### Companion
+
+I am a companion to all those who fear You,
+And to those who keep Your precepts.
+— Psalm 119:63
+
+A person of too many friends comes to ruin,
+But there is a friend who sticks closer than a brother.
+— Proverbs 18:24
+
+Make sure that your character is free from the love of money, being content with what you have; for He Himself has said, “I will never desert you, nor will I ever abandon you,”
+— Hebrews 13:5
+
+No longer do I call you slaves, for the slave does not know what his master is doing; but I have called you friends, because all things that I have heard from My Father I have made known to you. You did not choose Me but I chose you, and appointed you that you would go and bear fruit, and that your fruit would remain, so that whatever you ask of the Father in My name He may give to you.
+— John 15:15-16
+
+but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
+— 1 John 1:7
+
+For the mountains may be removed and the hills may shake,
+But My favor will not be removed from you,
+Nor will My covenant of peace be shaken,”
+Says the Lord who has compassion on you.
+— Isaiah 54:10
+
+Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.
+— Revelation 3:20
+
+Come close to God and He will come close to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.
+— James 4:8
+
+For my father and my mother have forsaken me,
+But the Lord will take me up.
+— Psalm 27:10
+
+“This is My commandment, that you love one another, just as I have loved you. Greater love has no one than this, that a person will lay down his life for his friends. You are My friends if you do what I command you.
+— John 15:12-14
+
+God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
+— 1 Corinthians 1:9
+
+what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ.
+— 1 John 1:3
+
+“I will not leave you as orphans; I am coming to you.
+— John 14:18
