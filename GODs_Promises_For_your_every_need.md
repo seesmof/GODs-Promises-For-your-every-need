@@ -492,3 +492,35 @@ what we have seen and heard we proclaim to you also, so that you too may have fe
 
 “I will not leave you as orphans; I am coming to you.
 — John 14:18
+
+#### Brother
+
+For whoever does the will of My Father who is in heaven, he is My brother, and sister, and mother.”
+— Matthew 12:50
+
+For both He who sanctifies and those who are sanctified are all from one Father; for this reason He is not ashamed to call them brothers and sisters,
+— Hebrews 2:11
+
+For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers and sisters;
+— Romans 8:29
+
+For you are all sons and daughters of God through faith in Christ Jesus.
+— Galatians 3:26
+
+But as many as received Him, to them He gave the right to become children of God, to those who believe in His name,
+— John 1:12
+
+So then you are no longer strangers and foreigners, but you are fellow citizens with the saints, and are of God’s household,
+— Ephesians 2:19
+
+See how great a love the Father has given us, that we would be called children of God; and in fact we are. For this reason the world does not know us: because it did not know Him.
+— 1 John 3:1
+
+Because you are sons, God has sent the Spirit of His Son into our hearts, crying out, “Abba! Father!” Therefore you are no longer a slave, but a son; and if a son, then an heir through God.
+— Galatians 4:6-7
+
+For all who are being led by the Spirit of God, these are sons and daughters of God.
+— Romans 8:14
+
+Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is.
+— 1 John 3:2

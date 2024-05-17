@@ -8,3 +8,4 @@ Philippians 2:9-11; Romans 10:9-10; Luke 6:46; Romans 6:14-16; Romans 12:1-2; 1 
 Titus 3:5-6; 1 John 4:14; Luke 1:47; John 4:42b; Luke 19:10; John 3:16; Romans 3:24-25; Ephesians 2:4-5; John 6:47; Ephesians 2:8-9; Romans 10:9; 2 Corinthians 5:17; 2 Timothy 1:9; Psalm 106:8
 1 Peter 2:21; 1 John 2:6; Ephesians 5:1-2; Philippians 2:5-8; Mark 10:43-45; John 13:14-15; John 13:34; 1 John 3:16; Romans 15:5-7; Colossians 3:13; Hebrews 12:2-3
 Psalm 119:63; Proverbs 18:24; Hebrews 13:5; John 15:15-16; 1 John 1:7; Isaiah 54:10; Revelation 3:20; James 4:8; Psalm 27:10; John 15:12-14; 1 Corinthians 1:9; 1 John 1:3; John 14:18
+Matthew 12:50; Hebrews 2:11; Romans 8:29; Galatians 3:26; John 1:12; Ephesians 2:19; 1 John 3:1; Galatians 4:6-7; Romans 8:14; 1 John 3:2
