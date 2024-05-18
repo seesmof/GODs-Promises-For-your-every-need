@@ -822,3 +822,63 @@ And whatever you ask in prayer, believing, you will receive it all.”
 — Matthew 21:22
 
 ### The Bible is your
+
+#### Infallible Authority
+
+All Scripture is inspired by God and beneficial for teaching, for rebuke, for correction, for training in righteousness;
+— 2 Timothy 3:16
+
+But know this first of all, that no prophecy of Scripture becomes a matter of someone’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.
+— 2 Peter 1:20-21
+
+For the word of God is living and active, and sharper than any two-edged sword, even penetrating as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.
+— Hebrews 4:12
+
+For as the rain and the snow come down from heaven,
+And do not return there without watering the earth
+And making it produce and sprout,
+And providing seed to the sower and bread to the eater;
+So will My word be which goes out of My mouth;
+It will not return to Me empty,
+Without accomplishing what I desire,
+And without succeeding in the purpose for which I sent it.
+— Isaiah 55:10-11
+
+You examine the Scriptures because you think that in them you have eternal life; and it is those very Scriptures that testify about Me;
+— John 5:39
+
+for you have been born again not of seed which is perishable, but imperishable, that is, through the living and enduring word of God.
+— 1 Peter 1:23
+
+For He spoke, and it was done;
+He commanded, and it stood firm.
+— Psalm 33:9
+
+Every word of God is pure;
+He is a shield to those who take refuge in Him.
+— Proverbs 30:5
+
+Forever, Lord,
+Your word stands in heaven.
+— Psalms 119:89
+
+By the word of the Lord the heavens were made,
+And by the breath of His mouth all their lights.
+— Psalms 33:6
+
+For as many as the promises of God are, in Him they are yes; therefore through Him also is our Amen to the glory of God through us.
+— 2 Corinthians 1:20
+
+For,
+“All flesh is like grass,
+And all its glory is like the flower of grass.
+The grass withers,
+And the flower falls off,
+But the word of the Lord endures forever.”
+And this is the word which was preached to you.
+— 1 Peter 1:24-25
+
+Heaven and earth will pass away, but My words will not pass away.
+— Mark 13:31
+
+#### Deed of Inheritance
