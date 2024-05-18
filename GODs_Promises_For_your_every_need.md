@@ -769,3 +769,56 @@ I meditate on You in the night watches,
 
 He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things?
 — Romans 8:32
+
+#### Everything
+
+And my God will supply all your needs according to His riches in glory in Christ Jesus.
+— Philippians 4:19
+
+I can do all things through Him who strengthens me.
+— Philippians 4:13
+
+But in all these things we overwhelmingly conquer through Him who loved us.
+— Romans 8:37
+
+So then, no one is to be boasting in people. For all things belong to you, whether Paul or Apollos or Cephas, or the world or life or death, or things present or things to come; all things belong to you, and you belong to Christ, and Christ belongs to God.
+— 1 Corinthians 3:21-23
+
+Blessed be the Lord, who daily bears our burden,
+The God who is our salvation. Selah
+— Psalm 68:19
+
+And on that day you will not question Me about anything. Truly, truly I say to you, if you ask the Father for anything in My name, He will give it to you. Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full.
+— John 16:23-24
+
+If you remain in Me, and My words remain in you, ask whatever you wish, and it will be done for you.
+— John 15:7
+
+Therefore, I say to you, all things for which you pray and ask, believe that you have received them, and they will be granted to you.
+— Mark 11:24
+
+Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,
+— Ephesians 1:3
+
+and whatever we ask, we receive from Him, because we keep His commandments and do the things that are pleasing in His sight.
+— 1 John 3:22
+
+He made Him who knew no sin to be sin in our behalf, so that we might become the righteousness of God in Him.
+— 2 Corinthians 5:21
+
+For to me, to live is Christ, and to die is gain.
+— Philippians 1:21
+
+Therefore if anyone is in Christ, this person is a new creation; the old things passed away; behold, new things have come.
+— 2 Corinthians 5:17
+
+Now to Him who is able to do far more abundantly beyond all that we ask or think, according to the power that works within us, to Him be the glory in the church and in Christ Jesus to all generations forever and ever. Amen.
+— Ephesians 3:20-21
+
+And God is able to make all grace overflow to you, so that, always having all sufficiency in everything, you may have an abundance for every good deed;
+— 2 Corinthians 9:8
+
+And whatever you ask in prayer, believing, you will receive it all.”
+— Matthew 21:22
+
+### The Bible is your
