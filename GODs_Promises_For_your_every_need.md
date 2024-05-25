@@ -882,3 +882,52 @@ Heaven and earth will pass away, but My words will not pass away.
 — Mark 13:31
 
 #### Deed of Inheritance
+
+And now I entrust you to God and to the word of His grace, which is able to build you up and to give you the inheritance among all those who are sanctified.
+— Acts 20:32
+
+to open their eyes so that they may turn from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who have been sanctified by faith in Me.’
+— Acts 26:18
+
+The Spirit Himself testifies with our spirit that we are children of God, and if children, heirs also, heirs of God and fellow heirs with Christ, if indeed we suffer with Him so that we may also be glorified with Him.
+— Romans 8:16-17
+
+In Him we also have obtained an inheritance, having been predestined according to the purpose of Him who works all things in accordance with the plan of His will, to the end that we who were the first to hope in the Christ would be to the praise of His glory. In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of the promise, who is a first installment of our inheritance, in regard to the redemption of God’s own possession, to the praise of His glory.
+— Ephesians 1:11-14
+
+And if you belong to Christ, then you are Abraham’s descendants, heirs according to promise.
+— Galatians 3:29
+
+to be specific, that the Gentiles are fellow heirs and fellow members of the body, and fellow partakers of the promise in Christ Jesus through the gospel,
+— Ephesians 3:6
+
+In My Father’s house are many rooms; if that were not so, I would have told you, because I am going there to prepare a place for you. And if I go and prepare a place for you, I am coming again and will take you to Myself, so that where I am, there you also will be.
+— John 14:2-3
+
+But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; for He has prepared a city for them.
+— Hebrews 11:16
+
+“Then the King will say to those on His right, ‘Come, you who are blessed of My Father, inherit the kingdom prepared for you from the foundation of the world.
+— Matthew 25:34
+
+For as many as the promises of God are, in Him they are yes; therefore through Him also is our Amen to the glory of God through us.
+— 2 Corinthians 1:20
+
+Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to obtain an inheritance which is imperishable, undefiled, and will not fade away, reserved in heaven for you,
+— 1 Peter 1:3-4
+
+but just as it is written:
+“Things which eye has not seen and ear has not heard,
+And which have not entered the human heart,
+All that God has prepared for those who love Him.”
+— 1 Corinthians 2:9
+
+Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust.
+— 2 Peter 1:4
+
+Wait for the Lord and keep His way,
+And He will exalt you to inherit the land;
+When the wicked are eliminated, you will see it.
+— Psalm 37:34
+
+#### Guide for Life
