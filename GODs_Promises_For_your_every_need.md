@@ -931,3 +931,65 @@ When the wicked are eliminated, you will see it.
 — Psalm 37:34
 
 #### Guide for Life
+
+Your word is a lamp to my feet
+And a light to my path.
+— Psalm 119:105
+
+When you walk, they will guide you;
+When you sleep, they will watch over you;
+And when you awake, they will talk to you.
+For the commandment is a lamp and the teaching is light;
+And rebukes for discipline are the way of life
+— Proverbs 6:22-23
+
+I have treasured Your word in my heart,
+So that I may not sin against You.
+— Psalm 119:11
+
+Moreover, Your servant is warned by them;
+In keeping them there is great reward.
+— Psalm 19:11
+
+Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust.
+— 2 Peter 1:4
+
+How can a young man keep his way pure?
+By keeping it according to Your word.
+— Psalm 119:9
+
+So Jesus was saying to those Jews who had believed Him, “If you continue in My word, then you are truly My disciples; and you will know the truth, and the truth will set you free.”
+— John 8:31-32
+
+Your testimonies also are my delight;
+They are my advisers.
+— Psalm 119:24
+
+The steps of a man are established by the Lord,
+And He delights in his way.
+— Psalm 37:23
+
+I will instruct you and teach you in the way which you should go;
+I will advise you with My eye upon you.
+— Psalm 32:8
+
+He restores my soul;
+He guides me in the paths of righteousness
+For the sake of His name.
+— Psalm 23:3
+
+Your ears will hear a word behind you, saying, “This is the way, walk in it,” whenever you turn to the right or to the left.
+— Isaiah 30:21
+
+Just as He spoke by the mouth of His holy prophets from ancient times—
+To shine on those who sit in darkness and the shadow of death,
+To guide our feet into the way of peace.”
+— Luke 1:70, 79
+
+This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will achieve success.
+— Joshua 1:8
+
+All Scripture is inspired by God and beneficial for teaching, for rebuke, for correction, for training in righteousness; so that the man or woman of God may be fully capable, equipped for every good work.
+— 2 Timothy 3:16-17
+
+#### Stability 
