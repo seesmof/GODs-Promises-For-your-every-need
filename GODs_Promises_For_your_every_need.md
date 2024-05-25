@@ -993,3 +993,69 @@ All Scripture is inspired by God and beneficial for teaching, for rebuke, for co
 — 2 Timothy 3:16-17
 
 #### Stability 
+
+for you have been born again not of seed which is perishable, but imperishable, that is, through the living and enduring word of God. For,
+“All flesh is like grass,
+And all its glory is like the flower of grass.
+The grass withers,
+And the flower falls off,
+But the word of the Lord endures forever.”
+And this is the word which was preached to you.
+— 1 Peter 1:23-25
+
+Forever, Lord,
+Your word stands in heaven.
+— Psalms 119:89
+
+Heaven and earth will pass away, but My words will not pass away.
+— Matthew 24:35
+
+For I the Lord will speak whatever word I speak, and it will be performed. It will no longer be delayed, for in your days, you rebellious house, I will speak the word and perform it,” declares the Lord God.’”
+— Ezekiel 12:25
+
+My son, pay attention to my words;
+Incline your ear to my sayings.
+They are not to escape from your sight;
+Keep them in the midst of your heart.
+For they are life to those who find them,
+And healing to all their body.
+— Proverbs 4:20-22
+
+The grass withers, the flower fades,
+But the word of our God stands forever.
+— Isaiah 40:8
+
+For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke of a letter shall pass from the Law, until all is accomplished!
+— Matthew 5:18
+
+“Blessed be the Lord, who has given rest to His people Israel in accordance with everything that He promised; not one word has failed of all His good promise, which He promised through Moses His servant.
+— 1 Kings 8:56
+
+What then shall we say to these things? If God is for us, who is against us?
+— Romans 8:31
+
+The eternal God is a hiding place,
+And underneath are the everlasting arms;
+And He drove out the enemy from you,
+And said, ‘Destroy!’
+— Deuteronomy 33:27
+
+He brought me up out of the pit of destruction, out of the mud;
+And He set my feet on a rock, making my footsteps firm.
+— Psalms 40:2
+
+God is our refuge and strength,
+A very ready help in trouble.
+— Psalm 46:1
+
+The name of the Lord is a strong tower;
+The righteous runs into it and is safe.
+— Proverbs 18:10
+
+But the Lord is faithful, and He will strengthen and protect you from the evil one.
+— 2 Thessalonians 3:3
+
+Now to Him who is able to protect you from stumbling, and to make you stand in the presence of His glory, blameless with great joy, to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority before all time and now and forever. Amen.
+— Jude 24-25
+
+#### Strength 
